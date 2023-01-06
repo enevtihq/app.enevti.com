@@ -1,0 +1,53 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "73U9YAS65P.com.enevti.app"
+        ],
+        "components": [
+          {
+            "/": "/nft/*"
+          },
+          {
+            "/": "/collection/*"
+          },
+          {
+            "/": "/stake/*"
+          },
+          {
+            "/": "/profile/*"
+          },
+          {
+            "/": "/login/*"
+          },
+          {
+            "/": "/createaccount/*"
+          },
+          {
+            "/": "/apponboarding/*"
+          },
+          {
+            "/": "/wallet/*"
+          },
+          {
+            "/": "/send/*"
+          },
+          {
+            "/": "/moment/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "73U9YAS65P.com.enevti.app"
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "73U9YAS65P.com.enevti.app"
+    ]
+  }
+}
